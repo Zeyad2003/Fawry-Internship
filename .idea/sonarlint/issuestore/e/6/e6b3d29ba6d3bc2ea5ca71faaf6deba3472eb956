@@ -1,0 +1,19 @@
+
+`	java:S112 "FDefine and throw a dedicated exception instead of using a generic one.(ŒÚ„§ÿÿÿÿÿ
+`	java:S1120"FDefine and throw a dedicated exception instead of using a generic one.(ŒÚ„§ÿÿÿÿÿ
+`	java:S112@"FDefine and throw a dedicated exception instead of using a generic one.(ŒÚ„§ÿÿÿÿÿ
+`	java:S112a"FDefine and throw a dedicated exception instead of using a generic one.(ŒÚ„§ÿÿÿÿÿ
+`	java:S112u"FDefine and throw a dedicated exception instead of using a generic one.(ŒÚ„§ÿÿÿÿÿ
+\	java:S112’"FDefine and throw a dedicated exception instead of using a generic one.(øÊ÷š
+\	java:S112"FDefine and throw a dedicated exception instead of using a generic one.( ŞØÚ
+a	java:S112Ÿ"FDefine and throw a dedicated exception instead of using a generic one.(ğ¶Ê¾øÿÿÿÿ
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ô‘Œùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•¸•¶
+Q
+java:S2696"6Make the enclosing method "static" or remove this set.(Õ¢âôûÿÿÿÿ
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(İÈúºûÿÿÿÿ
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(³ò¯†ıÿÿÿÿ
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(¦¾Ï¾ÿÿÿÿÿ
+S	java:S106_"9Replace this use of System.out or System.err by a logger.(Ã¹é®ûÿÿÿÿ
+S	java:S106q"9Replace this use of System.out or System.err by a logger.(¦¾Ï¾ÿÿÿÿÿ
+S	java:S106s"9Replace this use of System.out or System.err by a logger.(ÖØ×Îúÿÿÿÿ
