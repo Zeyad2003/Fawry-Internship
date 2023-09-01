@@ -145,7 +145,11 @@ q
 Asrc/main/java/org/fawry/Week4/UnitTesting/Task/Store/MyStore.java,0/9/09fe6a8e3679268e9b1482bbb6be43e4cde9477f
 z
 Jsrc/main/java/org/fawry/Week4/UnitTesting/Task/Account/AccountManager.java,8/6/868c19290c2e6d1580289a3e9564d67ce6755e11
-7
-pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
 c
 3src/main/java/org/fawry/Week4/UnitTesting/README.md,1/e/1e62bdd52e296926d4b2788fbb831e0927bb596d
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+D
+Fawry-Internship.iml,6/7/67b5b4dc5a28a272e1f820044afa412b3a5743a8
+f
+6src/main/java/org/fawry/Week5/DesignPattern3/README.md,d/e/dea4867a55ccacd853e149bb5b8ea1bddca3ebf2

@@ -129,8 +129,6 @@ Msrc/main/java/org/fawry/Week5/DesignPattern3/Task3/Sensors/smoke/sensorB.java,
 Psrc/main/java/org/fawry/Week5/DesignPattern3/Task3/Sensors/smoke/ApplyClass.java,f/1/f13ea63fe7699bb316efa4306f112465b411cfa7
 l
 <src/main/java/org/fawry/Week5/DesignPattern3/Task3/README.md,7/2/725a6f5fe75739c9198727dd9235587106b0a57e
-7
-pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
 z
 Jsrc/main/java/org/fawry/Week4/UnitTesting/Task/Account/AccountManager.java,8/6/868c19290c2e6d1580289a3e9564d67ce6755e11
 t
@@ -149,3 +147,9 @@ b
 2src/test/java/UnitTestingTask/Store/storeTest.java,3/6/360e5dc8b28dd240754f69b3455c8a51bb82c4fc
 c
 3src/main/java/org/fawry/Week4/UnitTesting/README.md,1/e/1e62bdd52e296926d4b2788fbb831e0927bb596d
+f
+6src/main/java/org/fawry/Week5/DesignPattern3/README.md,d/e/dea4867a55ccacd853e149bb5b8ea1bddca3ebf2
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+D
+Fawry-Internship.iml,6/7/67b5b4dc5a28a272e1f820044afa412b3a5743a8

@@ -1,5 +1,6 @@
 target/
-Practice.java
+src/main/java/org/fawry/Practice.java
+.idea/sonarlint
 
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
