@@ -105,6 +105,8 @@ public class LambdaExample {
     private static void banner(final String m) {
         System.out.println("#### " + m + " ####");
     }
+
+
     
 }
 

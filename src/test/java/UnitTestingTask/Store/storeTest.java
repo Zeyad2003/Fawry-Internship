@@ -53,4 +53,6 @@ public class storeTest {
         store.buy(product, customer);
         assertThat(product.getQuantity()).isEqualTo(9);
     }
+
+
 }
