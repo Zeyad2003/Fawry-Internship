@@ -44,7 +44,7 @@
         <ul>
           <li><a href="./Week3/DataBase">Database</a></li>
           <li><a href="./Week3/DesignPattern1">Design Pattern Part 1</a></li>
-          <li><a href="./Week3/Rest_API_Design1">Rest API</a></li>
+          <li><a href="./Week3/Rest_API_Design1">Rest API Part 1</a></li>
         </ul>
       </td>
     </tr>
@@ -70,7 +70,7 @@
       <td>6</td>
       <td>
         <ul>
-          <li><a href="./Week6/Reactive Programming">Reactive Programming</a></li>
+          <li><a href="./Week6/Reactive Programming">Programming Paradigms</a></li>
         </ul>
       </td>
     </tr>
