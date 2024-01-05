@@ -62,7 +62,7 @@
       <td>
         <ul>
           <li><a href="./Week5/DesignPattern3">Design Pattern Part 3</a></li>
-          <li><a href="./Week5/Java8">Java 8</a></li>
+          <li><a href="./Week5/Java8">Java8 Features</a></li>
         </ul>
       </td>
     </tr>
@@ -70,7 +70,7 @@
       <td>6</td>
       <td>
         <ul>
-          <li><a href="./Week6/Reactive Programming">Programming Paradigms</a></li>
+          <li><a href="Week6/Programming%20Paradigms">Programming Paradigms</a></li>
         </ul>
       </td>
     </tr>
