@@ -45,7 +45,7 @@
 > So now we can use the external library without any issues with the data type.
 
 **So what is the definition of the Adapter Design Pattern?**
-> **Important**
+> [!IMPORTANT]
 > the adapter pattern is a software design pattern that allows the interface of an existing class to be used as another
 > interface. It is often used to make existing classes work with others without modifying their source code.
 
@@ -80,7 +80,7 @@
 - Using decorator pattern will facilitate this task.
 
 **So what is the definition of the Decorator Design Pattern?**
-> **Important**
+> [!IMPORTANT]
 > - The decorator pattern is a design pattern that allows behavior to be added to an individual object, either
     statically or dynamically, without affecting the behavior of other objects from the same class.
 > - Decorator pattern lets you dynamically change the behavior of an object at run time by wrapping them in an object of
@@ -123,7 +123,7 @@
 - A higher level of abstraction over the system without exposing the user to the system details.
 
 **So what is the definition of the Facade Design Pattern?**
-> **Important**
+> [!IMPORTANT]
 > - A facade is an object that provides a simplified interface to a larger body of code, such as a class library.
 
 **Here is the UML diagram for the Observer Design Pattern ⬇**
@@ -152,7 +152,7 @@
 - The proxy pattern provides a surrogate or placeholder for another object to control access to it.
 
 **So what is the definition of the Proxy Design Pattern?**
-> **Important**
+> [!IMPORTANT]
 > - A class functioning as an interface to something else.
 > - Proxy is a wrapper or agent object that is being called by the client to access the real serving object behind the
     scenes.

@@ -1,6 +1,7 @@
 target/
+
 src/main/java/org/fawry/Practice.java
-.idea/sonarlint
+.idea/**/sonarlint
 
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
@@ -137,9 +138,6 @@ atlassian-ide-plugin.xml
 # Cursive Clojure plugin
 .idea/replstate.xml
 
-# SonarLint plugin
-.idea/sonarlint/
-
 # Crashlytics plugin (for Android Studio and IntelliJ)
 com_crashlytics_export_strings.xml
 crashlytics.properties
@@ -188,7 +186,7 @@ hs_err_pid*
 replay_pid*
 
 ### Maven ###
-target/
+
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup

@@ -2,7 +2,7 @@
 
 - This repo contains the resources, tasks and projects that I have done during my internship at [**Fawry**](https://www.fawry.com/).
 
-> **Note**
+> [!Note]
 > - I believe that sharing resources would be better than just explaining what I study.
 > - In some topics, I may add some notes and explanations to make it easier to understand, or may not :)
 > - You may find some resources that explain the same topic, but in different ways, or even explain advanced ones that you may not need for now.

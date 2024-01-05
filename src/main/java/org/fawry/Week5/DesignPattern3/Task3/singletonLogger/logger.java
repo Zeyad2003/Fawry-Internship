@@ -4,10 +4,13 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
 
 public class logger {
     private static logger instance;
     FileWriter fileWriter;
+    DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
+
 
     private logger() {
         File file = new File("./src/main/java/org/fawry/Week5/DesignPattern3/Task3/log.txt");
@@ -33,7 +36,7 @@ public class logger {
     public void logSmoke() {
         System.out.println("Log smoke....");
         try {
-            fileWriter.write(LocalDateTime.now() + ":smoke detected\n");
+            fileWriter.write(LocalDateTime.now().format(formatter) + ": smoke detected\n");
             fileWriter.flush();
         } catch (IOException e) {
             System.out.println(e.getMessage());
@@ -43,7 +46,7 @@ public class logger {
     public void logMotion() {
         System.out.println("Log motion....");
         try {
-            fileWriter.write(LocalDateTime.now() + ":motion detected\n");
+            fileWriter.write(LocalDateTime.now().format(formatter) + ": motion detected\n");
             fileWriter.flush();
         } catch (IOException e) {
             System.out.println(e.getMessage());

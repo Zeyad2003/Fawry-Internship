@@ -114,7 +114,7 @@ public class BankApplication {
         Bank bank = new Bank();
 
         while (true) {
-            System.out.println("Welcome to the banking application");
+            System.out.println("Welcome to the bank application");
             System.out.println("1. Open a savings account");
             System.out.println("2. Deposit money");
             System.out.println("3. Withdraw money");
@@ -149,6 +149,6 @@ public class BankApplication {
             }
         }
 
-        System.out.println("Thank you for using our banking application :)");
+        System.out.println("Thank you for using our bank application :)");
     }
 }

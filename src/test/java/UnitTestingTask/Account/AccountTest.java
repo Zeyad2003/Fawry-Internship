@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-public class accountTest {
+public class AccountTest {
     private AccountManagerImpl accountManager;
     private Customer customer;
 

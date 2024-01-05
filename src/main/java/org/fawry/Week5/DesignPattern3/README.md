@@ -46,7 +46,7 @@
 > `Subject` will notify all `Observers` to update their data.
 
 **So what is the definition of the Observer Design Pattern?**
-> **Important**
+> [!IMPORTANT]
 > The observer pattern: defines a one-to-many dependency between objects so that when one object changes state, all its
 > dependents are notified and updated automatically.
 
@@ -87,7 +87,7 @@
   algorithm to solve the problem, but the order of these steps could never be changed.
 
 **So what is the definition of the Template Design Pattern?**
-> **Important**
+> [!IMPORTANT]
 > In software engineering, the template method pattern is a behavioral design pattern that defines the program skeleton
 > of an algorithm in an operation, deferring some steps to subclasses.
 > It lets one redefine certain steps of an algorithm without changing the algorithm’s structure.
@@ -124,7 +124,7 @@
 - After check them you can switch between them easily based on the situation.
 
 **So what is the definition of the Strategy Design Pattern?**
-> **Important**
+> [!IMPORTANT]
 > It is a behavioural software design pattern that enables an algorithm’s behavior to be selected at runtime.
 
 **Here is the UML diagram for the Strategy Design Pattern ⬇**
@@ -156,7 +156,7 @@
 - The invoker will decide which command to execute based on the request.
 
 **So what is the definition of the Command Design Pattern?**
-> **Important**
+> [!IMPORTANT]
 > the command pattern is a behavioral design pattern in which an object is used to encapsulate all information needed to
 > perform an action or trigger an event at a later time.
 
@@ -167,7 +167,7 @@
 
 ![Congratulation](https://github.com/Zeyad2003/Fawry-Internship/assets/87117386/66bc4f79-5143-4ef5-b943-50b4f5ed178b)
 
-> **Note**
+> [!NOTE]
 > ### ◉ Don't be fooled, this _Congratulation_ is for me 😄
 > ### ◉ Just kidding, it's for me and you too, for reaching this point 🫡🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
 > ### ◉ We could say that we finished about the half of design patterns based on the patterns that exist in GoF book.

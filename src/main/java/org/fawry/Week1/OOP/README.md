@@ -1,7 +1,7 @@
 ## Resources
 
 - ### YouTube Courses
-  - ##### Dr.Mostafa Saad [Playlist](https://youtube.com/playlist?list=PLPt2dINI2MIbMba7tpx3qvmgOsDlpITwG), [A bit difficult but amazing]
+  - ##### Dr.Mostafa Saad [Playlist](https://youtube.com/playlist?list=PLPt2dINI2MIbMba7tpx3qvmgOsDlpITwG), A bit difficult but awesome :)
   - ##### Adel Nasim [Playlist](https://youtube.com/playlist?list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv)
 
 - ### Websites

@@ -2,14 +2,11 @@
 
 #### From [Java-T-Point](https://www.javatpoint.com/collections-in-java) Website
 #### From [GeeksForGeeks](https://www.geeksforgeeks.org/collections-in-java-2/) Website
-#### From [Docs.Oracle](https://docs.oracle.com/javase/8/docs/technotes/guides/collections/overview.html) Website [Intensive]
 #### Eng/ Asmaa [Session](https://drive.google.com/file/d/1eJQr-JnOhET2pmU21lBQOhprVoyeFAEk/view?usp=drive_link) & [Slides](https://drive.google.com/file/d/1isDEwreoOhZyt8dvd4ew8IrAKKNTtlM0/view?usp=drive_link)
-
 
 # Tasks
 
 ### We should read and discuss the following use-cases and see the suitable java collection for every use-case:
-
 
 1. When working with a large collection where frequent insertion and deletion operations are expected, and random access is not a primary concern, what is the best choice ?
 

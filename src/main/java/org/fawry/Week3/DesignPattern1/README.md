@@ -23,7 +23,7 @@
 ## Some Notes & Explanations
 
 **What is a Design Pattern?**
-> **Important**
+> [!Important]
 > _In software engineering, a software design pattern is a general reusable solution to a commonly occurring problem
 within a given context in software design. It is not a finished design that can be transformed directly into source or
 machine code. It is a description or template for how to solve a problem that can be used in many different situations._
@@ -32,7 +32,7 @@ machine code. It is a description or template for how to solve a problem that ca
 - It's like a blueprint for solving a certain type of problems, but it's not a specific set of instructions you can just
   copy.
 
-> **Note**
+> [!NOTE]
 > **Pattern** has some similarities with **Algorithm**, but you can imagine it as a higher level of abstraction.
 
 **There are 3 types of Design Patterns:**
