@@ -2,8 +2,8 @@
 
 ## Prerequisites
 
-- [Design Pattern Part 1](../../Week3/DesignPattern1)
-- [Design Pattern Part 2](../../Week4/DesignPattern2)
+- [Design Pattern Part 1](../../Week3/Design-Pattern1)
+- [Design Pattern Part 2](../../Week4/Design-Pattern2)
 
 ## Resources
 

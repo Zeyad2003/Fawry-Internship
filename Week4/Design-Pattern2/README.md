@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-- [Design Pattern Part 1](../../Week3/DesignPattern1)
+- [Design Pattern Part 1](../../Week3/Design-Pattern1)
 
 ## Resources
 
@@ -171,4 +171,4 @@
 - [Composite Pattern](https://refactoring.guru/design-patterns/composite)
 - [Flyweight Pattern](https://refactoring.guru/design-patterns/flyweight)
 
-**There's [Part 3](../../Week5/DesignPattern3) we talk about Behavioural Patterns.**
+**There's [Part 3](../../Week5/Design-Pattern3) we talk about Behavioural Patterns.**
