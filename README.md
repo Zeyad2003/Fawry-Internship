@@ -2,7 +2,7 @@
 
 - This repo contains the resources, tasks and projects that I have done during my internship at [**Fawry**](https://www.fawry.com/).
 
-> [!Note]
+> [!IMPORTANT]
 >
 > - For most of the tasks you will find `run.sh` script that will show the output of running the task.
 > - I believe that sharing resources would be better than just explaining what I study.
@@ -22,7 +22,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>1</td>
+      <td align="center">1</td>
       <td>
         <ul>
           <li><a href="./Week1/OOP">OOP</a></li>
@@ -32,7 +32,7 @@
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td align="center">2</td>
       <td>
         <ul>
           <li><a href="./Week2/Collection">Collection</a></li>
@@ -40,7 +40,7 @@
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td align="center">3</td>
       <td>
         <ul>
           <li><a href="./Week3/DataBase">Database</a></li>
@@ -50,7 +50,7 @@
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td align="center">4</td>
       <td>
         <ul>
           <li><a href="Week4/Design-Pattern2">Design Pattern Part 2</a></li>
@@ -59,7 +59,7 @@
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td align="center">5</td>
       <td>
         <ul>
           <li><a href="Week5/Design-Pattern3">Design Pattern Part 3</a></li>
@@ -68,7 +68,7 @@
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td align="center">6</td>
       <td>
         <ul>
           <li><a href="Week6/Programming%20Paradigms">Programming Paradigms</a></li>
@@ -76,18 +76,18 @@
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td align="center">7</td>
       <td>
         <ul>
           <li><a href="Week7/JPA-Hibernate">JDBC & JPA-Hibernate</a></li>
         </ul>
         <ul>
-          <li><a href="Week7/DevOps">DevOps</a></li>
+          <li><a href="Week7/DevOps">DevOps & Agile</a></li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td align="center">8</td>
       <td>
         <ul>
           <li><a href="Week8/Spring-Core">Spring Core</a></li>
@@ -98,7 +98,7 @@
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td align="center">9</td>
       <td>
         <ul>
           <li><a href="Week9/Spring-Boot">Spring Boot</a></li>
@@ -115,16 +115,13 @@
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td align="center">10</td>
       <td>
         <ul>
           <li><a href="Week10/Angular">Angular</a></li>
         </ul>
         <ul>
           <li><a href="Week10/Service-Testing">Service & Repo Testing</a></li>
-        </ul>
-        <ul>
-          <li><a href="Week10/Fawry-Business">Fawry Business</a></li>
         </ul>
       </td>
     </tr>

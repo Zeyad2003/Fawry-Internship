@@ -2,6 +2,8 @@
 # Compiled class file
 *.class
 
+.idea/
+
 # iml file
 *.iml
 
