@@ -1,10 +1,10 @@
-package org.fawry.Week7.JDBC;
+package src;
 
 import java.sql.*;
 
 public class testJDBC {
 
-    private static final String JDBC_URL = "jdbc:mysql://localhost:3306/testSchema";
+    private static final String JDBC_URL = "jdbc:mysql://localhost:3306/jdbcSchema";
     private static final String JDBC_USER = "";
     private static final String JDBC_PASSWORD = "";
 
@@ -15,7 +15,7 @@ public class testJDBC {
             if (connection != null) {
                 System.out.println("Connected to the database!");
                 Statement statement = connection.createStatement();
-                String sqlQuery = "SELECT * FROM taskTable"; // Replace with your table name
+                String sqlQuery = "SELECT * FROM jdbcTable"; // Replace with your table name
                 ResultSet rs = statement.executeQuery(sqlQuery);
 
                 while (rs.next()) {

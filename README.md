@@ -71,7 +71,7 @@
       <td align="center">6</td>
       <td>
         <ul>
-          <li><a href="Week6/Programming%20Paradigms">Programming Paradigms</a></li>
+          <li><a href="Week6/Programming-Paradigms/">Programming Paradigms</a></li>
         </ul>
       </td>
     </tr>
