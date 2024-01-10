@@ -1,4 +1,4 @@
-package org.fawry.Week7.JPA_Hibernate.Entities;
+package org.hibernatetask.entity;
 
 import jakarta.persistence.*;
 import lombok.Data;

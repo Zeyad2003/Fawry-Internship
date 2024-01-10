@@ -1,14 +1,13 @@
-package org.fawry.Week7.JPA_Hibernate.Util;
+package org.hibernatetask.util;
 
-import org.fawry.Week7.JPA_Hibernate.Entities.*;
+import org.hibernatetask.entity.*;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 
 public class SessionUtil {
     public static SessionFactory factory;
 
-    private SessionUtil() {
-    }
+    private SessionUtil() {}
 
     public static synchronized SessionFactory getSessionFactory() {
 

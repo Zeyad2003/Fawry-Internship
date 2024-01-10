@@ -1,4 +1,4 @@
-package org.fawry.Week7.JPA_Hibernate.repository;
+package org.hibernatetask.repository;
 
 import org.apache.commons.lang3.RandomStringUtils;
 import org.apache.commons.lang3.RandomUtils;

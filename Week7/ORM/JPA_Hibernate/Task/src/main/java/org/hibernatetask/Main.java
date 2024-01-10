@@ -1,18 +1,10 @@
-package org.fawry.Week7.JPA_Hibernate;
+package org.hibernatetask;
 
-import jakarta.persistence.EntityManager;
-import jakarta.persistence.EntityManagerFactory;
-import jakarta.persistence.Persistence;
-import jakarta.persistence.TypedQuery;
-import org.fawry.Week7.JPA_Hibernate.Util.SessionUtil;
-import org.fawry.Week7.JPA_Hibernate.Entities.*;
-import org.fawry.Week7.JPA_Hibernate.repository.Task;
+import org.hibernatetask.entity.*;
+import org.hibernatetask.repository.Task;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
-
-import java.util.List;
-
 
 import java.util.List;
 

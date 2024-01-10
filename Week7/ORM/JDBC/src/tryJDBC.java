@@ -2,11 +2,11 @@ package src;
 
 import java.sql.*;
 
-public class testJDBC {
+public class tryJDBC {
 
-    private static final String JDBC_URL = "jdbc:mysql://localhost:3306/jdbcSchema";
-    private static final String JDBC_USER = "";
-    private static final String JDBC_PASSWORD = "";
+    private static final String JDBC_URL = "jdbc:mysql://localhost:3306/fawry-tasks";
+    private static final String JDBC_USER = "fawry-intern";
+    private static final String JDBC_PASSWORD = "fawry";
 
     public static void main(String[] args) throws ClassNotFoundException {
         Class.forName("com.mysql.cj.jdbc.Driver");
@@ -15,12 +15,15 @@ public class testJDBC {
             if (connection != null) {
                 System.out.println("Connected to the database!");
                 Statement statement = connection.createStatement();
-                String sqlQuery = "SELECT * FROM jdbcTable"; // Replace with your table name
+                String sqlQuery = "SELECT * FROM jdbcTable";
                 ResultSet rs = statement.executeQuery(sqlQuery);
 
                 while (rs.next()) {
-                    System.out.print(rs.getInt("count") + " ");
-                    System.out.println(rs.getString("wow"));
+                    System.out.println("ID: " + rs.getInt("id"));
+                    System.out.println("Name: " + rs.getString("name"));
+                    System.out.println("Description: " + rs.getString("description"));
+                    System.out.println("Created at: " + rs.getTimestamp("created_at"));
+                    System.out.println("===================================");
                 }
             }
 

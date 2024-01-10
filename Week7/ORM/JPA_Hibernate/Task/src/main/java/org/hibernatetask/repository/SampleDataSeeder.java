@@ -1,9 +1,9 @@
-package org.fawry.Week7.JPA_Hibernate.repository;
+package org.hibernatetask.repository;
 
-import org.fawry.Week7.JPA_Hibernate.Entities.Doctor;
-import org.fawry.Week7.JPA_Hibernate.Entities.Drug;
-import org.fawry.Week7.JPA_Hibernate.Entities.Hospital;
-import org.fawry.Week7.JPA_Hibernate.Entities.Patient;
+import org.hibernatetask.entity.Doctor;
+import org.hibernatetask.entity.Drug;
+import org.hibernatetask.entity.Hospital;
+import org.hibernatetask.entity.Patient;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;

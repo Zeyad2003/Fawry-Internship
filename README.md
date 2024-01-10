@@ -79,7 +79,7 @@
       <td align="center">7</td>
       <td>
         <ul>
-          <li><a href="Week7/JPA-Hibernate">JDBC & JPA-Hibernate</a></li>
+          <li><a href="Week7/ORM">JDBC & ORM</a></li>
         </ul>
         <ul>
           <li><a href="Week7/DevOps">DevOps & Agile</a></li>

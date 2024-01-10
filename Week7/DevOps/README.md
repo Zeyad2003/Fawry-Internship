@@ -1,7 +1,7 @@
 # DevOps & Agile intro
 
 > [!NOTE]
-> You know the day when you don't go to school and you miss the most important & funniest day ever in your academic history? Well, that's what happened to me that day 😁
+> You know the day when you don't go to school and you miss the most important & funniest day in your academic history? Well, that's what happened to me that day 😁
 >
 > I heard that they made paper airplanes and some funny stuff, but they didn't got the same amount of sleep as I did :) 
 >
