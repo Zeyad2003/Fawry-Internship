@@ -2,7 +2,15 @@
 
 ## Resources
 
-- Eng/ Ahmed Ali [Session part 1](https://drive.google.com/drive/u/2/folders/1ei3Mu6EHKMSgOFlekMhovNn4OGTD0ts9) & [Slides and Code Samples](https://fawry-my.sharepoint.com/:f:/p/ahmed_ali/EmOyq6atUGtGkD3sl8q6Z78B_0HGYTPIDotNgSCzQKQHRA)
+- Eng/ Ahmed Ali Sessions:
+    - **[Part 1](https://drive.google.com/drive/u/2/folders/1ei3Mu6EHKMSgOFlekMhovNn4OGTD0ts9)** 
+    
+    - **[Part2](https://drive.google.com/file/d/14-6c_Ojgm9__lAJZm7mUgUdGuqjlPTNo/view?usp=drive_link)** 
+    
+    - **[Part3](https://drive.google.com/file/d/1rXxhMd9HpD6ltyruTG7K49VHkWzy5fe4/view?usp=drive_link)** (Unfortunately not complete 😔)
+
+    - **[Slides and Code Samples](https://fawry-my.sharepoint.com/:f:/p/ahmed_ali/EmOyq6atUGtGkD3sl8q6Z78B_0HGYTPIDotNgSCzQKQHRA)**
+
 - Readings
     - [Refactoring Guru Website](https://refactoring.guru/design-patterns)
     - [Java-T-Point Website](https://www.javatpoint.com/design-patterns-in-java)

@@ -1,5 +1,8 @@
 # HTTP Protocol
 
+> [!TIP]
+> **HTTP** is the backbone of the internet. Probably, you will see in the most technical roadmaps, and for most job requirements it's a must to know.
+
 ## Resources
 
 - ### Eng/ Hany [Session](https://drive.google.com/file/d/1i_y0d3QTwl5-BloyscsFSYYHVVKOixzE/view?usp=drive_link) & [Slides](https://drive.google.com/file/d/1jqCM5ebOkKEV35Ke6HDQNxaUlHGeThGJ/view?usp=drive_link) (until slide 45)

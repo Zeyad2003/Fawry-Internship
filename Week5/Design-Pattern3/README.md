@@ -1,15 +1,5 @@
 # Design Pattern Part 3
 
-## Prerequisites
-
-- [Design Pattern Part 1](../../Week3/Design-Pattern1)
-- [Design Pattern Part 2](../../Week4/Design-Pattern2)
-
-## Resources
-
-- **The full resources exist in part 1**
-- Eng/ Ahmed Ali [Session Part 3](https://drive.google.com/file/d/1rXxhMd9HpD6ltyruTG7K49VHkWzy5fe4/view?usp=drive_link) (Unfortunately not complete 😔)
-
 ## Tasks
 [**HSS Task**](Task3)
 

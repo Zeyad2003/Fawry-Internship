@@ -1,14 +1,5 @@
 # Design Pattern Part 2
 
-## Prerequisites
-
-- [Design Pattern Part 1](../../Week3/Design-Pattern1)
-
-## Resources
-
-- **The full resources exist in part 1**
-- Eng/ Ahmed Ali [Session Part 2](https://drive.google.com/file/d/14-6c_Ojgm9__lAJZm7mUgUdGuqjlPTNo/view?usp=drive_link)
-
 ## Tasks
  - [Task 2](Task2)
 

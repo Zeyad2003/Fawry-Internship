@@ -13,5 +13,6 @@
 - DevOps
 - Agile Method
 - Scrum
+- Some other software engineering methodologies
 
 You can search and read about them if you're curious.

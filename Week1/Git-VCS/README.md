@@ -4,9 +4,6 @@
 
 - Video Tutorial
     - [Git and GitHub - Big Data بالعربي](https://youtu.be/Q6G-J54vgKc)
-- Text Tutorials
-    - [Git - Java-T-Point](https://www.javatpoint.com/git)
-    - [Git Book](https://git-scm.com/book/en/v2)
 - Visual guide
     - [Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
 - Online Course
