@@ -8,14 +8,14 @@
 
         <!-- JDBC Database connection settings for MySQL -->
         <property name="connection.driver_class">com.mysql.cj.jdbc.Driver</property>
-        <property name="connection.url">jdbc:mysql://localhost:3306/Fawry-Schema</property>
-        <property name="connection.username">root</property>
-        <property name="connection.password"/>
+        <property name="connection.url">jdbc:mysql://localhost:3306/fawry-tasks</property>
+        <property name="connection.username">fawry-intern</property>
+        <property name="connection.password">fawry</property>
 
         <!-- JDBC connection pool settings ... using built-in test pool -->
         <property name="connection.pool_size">10</property>
 
-        <property name="hibernate.hbm2ddl.auto">update</property>
+        <property name="hibernate.hbm2ddl.auto">create</property>
 
         <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
 
@@ -23,11 +23,10 @@
 
         <property name="current_session_context_class">thread</property>
 
-        <mapping class="org.fawry.Week7.JPA_Hibernate.entity.Doctor"/>
-        <mapping class="org.fawry.Week7.JPA_Hibernate.entity.Drug"/>
-        <mapping class="org.fawry.Week7.JPA_Hibernate.entity.Hospital"/>
-        <mapping class="org.fawry.Week7.JPA_Hibernate.entity.Patient"/>
-
+        <mapping class="org.hibernatetask.entity.Doctor"/>
+        <mapping class="org.hibernatetask.entity.Drug"/>
+        <mapping class="org.hibernatetask.entity.Hospital"/>
+        <mapping class="org.hibernatetask.entity.Patient"/>
 
     </session-factory>
 

@@ -1,8 +1,12 @@
-package org.hibernatetask.repository;
+package org.hibernatetask.util;
 
 import org.apache.commons.lang3.RandomStringUtils;
-import org.apache.commons.lang3.RandomUtils;
 
+import java.util.concurrent.ThreadLocalRandom;
+
+/**
+ * This class is used to generate random data for testing the task is working properly.
+ */
 public class TestDataGenerator {
 
     public static String generateRandomName() {
@@ -14,10 +18,10 @@ public class TestDataGenerator {
     }
 
     public static int generateRandomAge() {
-        return RandomUtils.nextInt(25, 70);
+        return ThreadLocalRandom.current().nextInt(25, 70);
     }
 
     public static double generateRandomPrice() {
-        return RandomUtils.nextDouble(10.0, 100.0);
+        return ThreadLocalRandom.current().nextDouble(10.0, 100.0);
     }
 }

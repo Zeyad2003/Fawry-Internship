@@ -2,44 +2,27 @@ package org.hibernatetask;
 
 import org.hibernatetask.entity.*;
 import org.hibernatetask.repository.Task;
+import org.hibernatetask.util.SampleDataSeeder;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
-import org.hibernate.cfg.Configuration;
+import org.hibernatetask.util.SessionUtil;
 
 import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-      /*  EntityManagerFactory entityManagerFactory = Persistence.createEntityManagerFactory("default");
-        EntityManager entityManager = entityManagerFactory.createEntityManager();
-        //Session session = entityManager.unwrap(Session.class);
-        entityManager.getTransaction().begin();
-        //entityManager.persist(employee);
-        Doctor test = entityManager.find(Doctor.class, 1);
-        System.out.println("name :: " + test.getDoctorName());
-        System.out.println("id :: " + test.getDoctorId());
-
-        TypedQuery<Doctor> query = entityManager.createQuery("from Doctor", Doctor.class);
-        List<Doctor> doctors = query.getResultList();
-        System.out.println(doctors);
-        for (Doctor doctor : doctors) {
-            System.out.println("name :: " + doctor.getDoctorName());
-            System.out.println("id :: " + doctor.getDoctorId());
-        }
-//        System.out.println("specialization :: " + test.getDoctorSpecialization());
-        entityManager.getTransaction().commit();
-        entityManager.close();
-        entityManagerFactory.close();*/
-
-        Configuration configuration = new Configuration().configure("hibernate.cfg.xml");
-        SessionFactory sessionFactory = configuration.buildSessionFactory();
+        SessionFactory sessionFactory = SessionUtil.getSessionFactory();
         Session session = sessionFactory.openSession();
-//        SampleDataSeeder sampleDataSeeder = new SampleDataSeeder(sessionFactory);
-//        sampleDataSeeder.insertSampleData();
+
+        // Add 20 sample data
+        SampleDataSeeder sampleDataSeeder = new SampleDataSeeder(sessionFactory);
+        for(int i = 0; i < 20; i++) sampleDataSeeder.insertSampleData();
 
         Hospital hospital = session.get(Hospital.class, 1);
 
         List<Doctor> doctors = Task.getDoctorList(hospital);
+
+        System.out.println("\n======================Hibernate Task Output======================");
 
         for (Doctor doctor : doctors) {
             System.out.println("Doctor name: " + doctor.getDoctorName());
@@ -56,6 +39,7 @@ public class Main {
         for (Drug drug : drugs) {
             System.out.println("Drug name: " + drug.getName());
         }
+        System.out.println("=================================================================");
 
         session.close();
         sessionFactory.close();

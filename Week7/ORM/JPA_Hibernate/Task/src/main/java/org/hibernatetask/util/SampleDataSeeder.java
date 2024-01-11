@@ -1,4 +1,4 @@
-package org.hibernatetask.repository;
+package org.hibernatetask.util;
 
 import org.hibernatetask.entity.Doctor;
 import org.hibernatetask.entity.Drug;
@@ -8,6 +8,9 @@ import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;
 
+/**
+ * This class is responsible for seeding sample data into the database.
+ */
 public class SampleDataSeeder {
 
     private final SessionFactory sessionFactory;
@@ -16,7 +19,7 @@ public class SampleDataSeeder {
         this.sessionFactory = sessionFactory;
     }
 
-    public void  insertSampleData() {
+    public void insertSampleData() {
         try (Session session = sessionFactory.openSession()) {
             Transaction transaction = session.beginTransaction();
 
@@ -44,6 +47,9 @@ public class SampleDataSeeder {
             patient.setPatientAge(TestDataGenerator.generateRandomAge());
             patient.setHospital(hospital);
             patient.setDoctor(doctor);
+            if(patient.getDrugs() == null) {
+                patient.setDrugs(new java.util.ArrayList<>());
+            }
             patient.getDrugs().add(drug);
             session.persist(patient);
 
