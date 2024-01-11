@@ -18,12 +18,14 @@ public class tryJDBC {
                 String sqlQuery = "SELECT * FROM jdbcTable";
                 ResultSet rs = statement.executeQuery(sqlQuery);
 
+                System.out.println("===============JDBC Output================");
+
                 while (rs.next()) {
                     System.out.println("ID: " + rs.getInt("id"));
                     System.out.println("Name: " + rs.getString("name"));
                     System.out.println("Description: " + rs.getString("description"));
                     System.out.println("Created at: " + rs.getTimestamp("created_at"));
-                    System.out.println("===================================");
+                    System.out.println("==========================================");
                 }
             }
 
