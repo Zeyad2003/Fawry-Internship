@@ -6,7 +6,7 @@
 >
 > - For most of the tasks you will find `run.sh` script that will show the output of running the task.
 > - I believe that sharing resources would be better than just explaining what I study.
-> - In some topics, I may add some notes about the topic for reference :)
+> - In some topics, I may add some notes about the topic for reference, or may not :)
 > - You may encounter various resources explaining the same topic but in different ways, or covering advanced concepts that may not be necessary for your current needs.
 >   - It is your job to filter them based on your needs.
 >   - Send a message if you need my help <3
@@ -118,10 +118,10 @@
       <td align="center">10</td>
       <td>
         <ul>
-          <li><a href="Week10/Angular">Angular</a></li>
+          <li><a href="Week10/Integeration-Testing/">Integeration Testing</a></li>
         </ul>
         <ul>
-          <li><a href="Week10/Service-Testing">Service & Repo Testing</a></li>
+          <li><a href="Week10/Angular">Angular</a></li>
         </ul>
       </td>
     </tr>
