@@ -416,5 +416,5 @@ public class Main {
 - [Builder Pattern](https://refactoring.guru/design-patterns/builder)
 - [Prototype Pattern](https://refactoring.guru/design-patterns/prototype)
 
-**There's an organized code samples that explain all patterns we talk about, _Check the resources_**
-**There's [Part 2](../../Week4/Design-Pattern2) we talk about Structural Patterns.**
+
+**Refer to the resources for [Part 2](../../Week4/Design-Pattern2), we delve into Structural Patterns.**

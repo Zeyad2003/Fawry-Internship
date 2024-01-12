@@ -16,4 +16,4 @@ CRUD application of your choice
 - push to github
 
 > [!NOTE]
-> I added the solution previously on GitHub but it contains a lot of Bugs, I will fix it soon.
+> I added the solution previously on GitHub but it contains a lot of Bugs, I will fix it and add a reference to it soon.

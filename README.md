@@ -5,6 +5,8 @@
 > [!IMPORTANT]
 >
 > - For most of the tasks you will find `run.sh` script that will show the output of running the task.
+> - Make sure you install the following tools as we need them in some tasks:
+>   - Java - Maven - Git - MySQL - Docker
 > - I believe that sharing resources would be better than just explaining what I study.
 > - In some topics, I may add some notes about the topic for reference, or may not :)
 > - You may encounter various resources explaining the same topic but in different ways, or covering advanced concepts that may not be necessary for your current needs.

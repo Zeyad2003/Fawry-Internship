@@ -24,15 +24,15 @@
     - [Java Abstraction](https://www.geeksforgeeks.org/abstract-classes-in-java/)
     - [Java Encapsulation](https://www.geeksforgeeks.org/encapsulation-in-java/)
     - [Java Interface](https://www.geeksforgeeks.org/interfaces-in-java/)
-- ### Notes:
-  - For every topic listed above in the websites, check the sidebar to cover the whole section.
-  - The internet is full of resources, so feel free to search if you got stuck in any topic.
-  - [Slides](https://drive.google.com/file/d/1M8iZOAPkwwOuhADfC4W8486TzNXRN8w_/view?usp=drive_link) from Eng/ Asmaa
-  - There's some other individual topics like:
-    - [Static Keyword](https://www.javatpoint.com/static-keyword-in-java)
-    - [Final Keyword](https://www.javatpoint.com/final-keyword)
-    - [String](https://www.javatpoint.com/java-string) and now you know, we can't ignore the sidebar :)
-    - [String-Pool](https://www.javatpoint.com/string-pool-in-java)
+> [!NOTE]
+>  - For every topic listed above in the websites, check the sidebar to cover the whole section.
+>  - The internet is full of resources. Feel free to search if you got stuck in any topic.
+>  - [Slides](https://drive.google.com/file/d/1M8iZOAPkwwOuhADfC4W8486TzNXRN8w_/view?usp=drive_link) from Eng/ Asmaa
+>  - There's some other individual topics like:
+>    - [Static Keyword](https://www.javatpoint.com/static-keyword-in-java)
+>    - [Final Keyword](https://www.javatpoint.com/final-keyword)
+>    - [String](https://www.javatpoint.com/java-string) and now you know, we can't ignore the sidebar :)
+>    - [String-Pool](https://www.javatpoint.com/string-pool-in-java)
 
 <hr> 
 

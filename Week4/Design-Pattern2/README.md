@@ -1,7 +1,7 @@
 # Design Pattern Part 2
 
 ## Tasks
- - [Task 2](Task2)
+ - [Task](Task)
 
 ## Some Notes & Explanations
 
