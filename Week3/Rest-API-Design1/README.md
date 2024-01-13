@@ -1,7 +1,7 @@
 # HTTP Protocol
 
 > [!TIP]
-> **HTTP** is the backbone of the internet. Probably, you will see it in the most technical roadmaps, and for most job requirements it's a must to know.
+> **HTTP** is the backbone of the internet and is a must-know for most technical roadmaps and job requirements.
 
 ## Resources
 
