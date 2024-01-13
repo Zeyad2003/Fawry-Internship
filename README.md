@@ -4,12 +4,13 @@
 
 > [!IMPORTANT]
 >
-> - For most of the tasks you will find `run.sh` script that will show the output of running the task.
+> - For most of the tasks there's `run.sh` script that will run the task and show the output for you, just run it using `./run.sh` command.
 > - Make sure you install the following tools as we need them in some tasks:
 >   - Java - Maven - Git - MySQL - Docker
-> - I believe that sharing resources would be better than just explaining what I study.
+> - I believe that sharing resources about the topics I studied would be better than just explaining or mentioning them.
 > - In some topics, I may add some notes about the topic for reference, or may not :)
 > - You may encounter various resources explaining the same topic but in different ways, or covering advanced concepts that may not be necessary for your current needs.
+>   - I am used to learn from multiple resources, so I put them all here.
 >   - It is your job to filter them based on your needs.
 >   - Send a message if you need my help <3
 
