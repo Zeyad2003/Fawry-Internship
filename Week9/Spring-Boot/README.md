@@ -3,6 +3,8 @@
 ## Resources
 - Eng/ Magued [Session](https://drive.google.com/file/d/1ZtR6xxyl5o14r9iGTh9iJw1SFvjUxkAQ/view?usp=drive_link)
 
+- Chad Darby [Spring Boot & Hibernate](https://www.udemy.com/course/spring-hibernate-tutorial/)
+
 - Spring Boot [RoadMap](https://roadmap.sh/spring-boot)
 
 - [Baeldung](https://www.baeldung.com/spring-boot)
