@@ -6,4 +6,4 @@
 
 ## Tasks
 - Implement Product list web app using servlet and jsp.
-- I added the full requirements and the implementation **[here](https://github.com/Zeyad2003/Product-List)**.
+- I've added the full requirements and the implementation **[here](https://github.com/Zeyad2003/Product-List)**.
