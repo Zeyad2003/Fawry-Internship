@@ -28,9 +28,9 @@
       <td align="center">1</td>
       <td>
         <ul>
-          <li><a href="./Week1/OOP">OOP</a></li>
-          <li><a href="Week1/Design-Principles">Design Principles</a></li>
-          <li><a href="Week1/Git-VCS">Git</a></li>
+          <li><a href="./Week-01/OOP">OOP</a></li>
+          <li><a href="Week-01/Design-Principles">Design Principles</a></li>
+          <li><a href="Week-01/Git-VCS">Git</a></li>
         </ul>
       </td>
     </tr>
@@ -38,7 +38,7 @@
       <td align="center">2</td>
       <td>
         <ul>
-          <li><a href="./Week2/Collection">Collection</a></li>
+          <li><a href="./Week-02/Collection">Collection</a></li>
         </ul>
       </td>
     </tr>
@@ -46,9 +46,9 @@
       <td align="center">3</td>
       <td>
         <ul>
-          <li><a href="./Week3/DataBase">Database</a></li>
-          <li><a href="Week3/Design-Pattern1">Design Pattern Part 1</a></li>
-          <li><a href="Week3/Rest-API-Design1">Rest API Part 1 (HTTP)</a></li>
+          <li><a href="./Week-03/DataBase">Database</a></li>
+          <li><a href="Week-03/Design-Pattern1">Design Pattern Part 1</a></li>
+          <li><a href="Week-03/Rest-API-Design1">Rest API Part 1 (HTTP)</a></li>
         </ul>
       </td>
     </tr>
@@ -56,8 +56,8 @@
       <td align="center">4</td>
       <td>
         <ul>
-          <li><a href="Week4/Design-Pattern2">Design Pattern Part 2</a></li>
-          <li><a href="Week4/Unit-Testing">Unit Testing</a></li>
+          <li><a href="Week-04/Design-Pattern2">Design Pattern Part 2</a></li>
+          <li><a href="Week-04/Unit-Testing">Unit Testing</a></li>
         </ul>
       </td>
     </tr>
@@ -65,8 +65,8 @@
       <td align="center">5</td>
       <td>
         <ul>
-          <li><a href="Week5/Design-Pattern3">Design Pattern Part 3</a></li>
-          <li><a href="./Week5/Java8">Java8 Features</a></li>
+          <li><a href="Week-05/Design-Pattern3">Design Pattern Part 3</a></li>
+          <li><a href="./Week-05/Java8">Java8 Features</a></li>
         </ul>
       </td>
     </tr>
@@ -74,7 +74,7 @@
       <td align="center">6</td>
       <td>
         <ul>
-          <li><a href="Week6/Programming-Paradigms/">Programming Paradigms</a></li>
+          <li><a href="Week-06/Programming-Paradigms/">Programming Paradigms</a></li>
         </ul>
       </td>
     </tr>
@@ -82,10 +82,10 @@
       <td align="center">7</td>
       <td>
         <ul>
-          <li><a href="Week7/ORM">JDBC & ORM</a></li>
+          <li><a href="Week-07/ORM">JDBC & ORM</a></li>
         </ul>
         <ul>
-          <li><a href="Week7/DevOps">DevOps & Agile</a></li>
+          <li><a href="Week-07/DevOps">DevOps & Agile</a></li>
         </ul>
       </td>
     </tr>
@@ -93,10 +93,10 @@
       <td align="center">8</td>
       <td>
         <ul>
-          <li><a href="Week8/Spring-Core">Spring Core</a></li>
+          <li><a href="Week-08/Spring-Core">Spring Core</a></li>
         </ul>
         <ul>
-          <li><a href="Week8/Web-Overview">Web Overview</a></li>
+          <li><a href="Week-08/Web-Overview">Web Overview</a></li>
         </ul>
       </td>
     </tr>
@@ -104,16 +104,16 @@
       <td align="center">9</td>
       <td>
         <ul>
-          <li><a href="Week9/Spring-Boot">Spring Boot</a></li>
+          <li><a href="Week-09/Spring-Boot">Spring Boot</a></li>
         </ul>
         <ul>
-          <li><a href="Week9/Spring-Data">Spring Data</a></li>
+          <li><a href="Week-09/Spring-Data">Spring Data</a></li>
         </ul>
         <ul>
-          <li><a href="Week9/Rest-API-Design2">Rest API Part 2</a></li>
+          <li><a href="Week-09/Rest-API-Design2">Rest API Part 2</a></li>
         </ul>
         <ul>
-          <li><a href="Week9/Docker">Docker</a></li>
+          <li><a href="Week-09/Docker">Docker</a></li>
         </ul>
       </td>
     </tr>
@@ -121,10 +121,10 @@
       <td align="center">10</td>
       <td>
         <ul>
-          <li><a href="Week10/Integeration-Testing/">Integeration Testing</a></li>
+          <li><a href="Week-10/Integeration-Testing/">Integeration Testing</a></li>
         </ul>
         <ul>
-          <li><a href="Week10/Angular">Angular</a></li>
+          <li><a href="Week-10/Angular">Angular</a></li>
         </ul>
       </td>
     </tr>
