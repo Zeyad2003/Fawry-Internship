@@ -1,4 +1,4 @@
-# Service & Repo Tesging
+# Service & Repo Testing
 
 > [!NOTE]
 > - There's no recorded session for this topic. 

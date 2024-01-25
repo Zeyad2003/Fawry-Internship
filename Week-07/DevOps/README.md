@@ -5,7 +5,7 @@
 >
 > I heard that they made paper airplanes and some funny stuff, but they didn't got the same amount of sleep as I did :) 
 >
-> Or that what I want to believe 😅
+> Or that's what I want to believe 😅
 
 --- 
 

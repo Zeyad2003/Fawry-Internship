@@ -12,4 +12,4 @@ I used:
   - `Adapter` to allow multiple message format to be sent to the home owner.
 
 > [!NOTE]
-> Run the application and wait until finish, then check the `logs.txt` file to see the logs.
+> Run the application and wait until finish, then check the `log.txt` file to see the output.

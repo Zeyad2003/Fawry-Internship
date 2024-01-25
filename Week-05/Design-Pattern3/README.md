@@ -1,7 +1,7 @@
 # Design Pattern Part 3
 
 ## Tasks
-[**HSS Task**](Task3)
+[**HSS Task**](Task)
 
 ## Some Notes & Explanations
 
