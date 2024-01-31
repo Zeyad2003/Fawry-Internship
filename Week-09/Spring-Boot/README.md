@@ -18,4 +18,4 @@ CRUD application of your choice
 - push to github
 
 > [!NOTE]
-> I added the solution previously on GitHub but it contains a lot of Bugs, I will fix it and add a reference to it soon.
+> I choose library system application, you can find the project in the following link: **[Library System](https://github.com/Zeyad2003/Library-System-Crud/)**
