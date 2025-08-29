@@ -133,10 +133,6 @@
 
 ---
 
-# <p align="center">The final **[E-Commerce Project](https://github.com/orgs/Fawry-Intern-Round4/repositories)**</p>
+# <p align="center">The Final **[E-Commerce Project](https://github.com/orgs/Fawry-Intern-Round4)**</p>
 
-# <details align="center"><summary>Some Memorable pictures</summary>![My Img](https://github.com/Zeyad2003/Fawry-Internship/assets/87117386/65b1e7af-79a0-43a6-a105-827a6d46a696)![Intern Group](https://github.com/Zeyad2003/Fawry-Internship/assets/87117386/eb5dca40-a7f5-46b3-b6f1-f5dfa5a70040)![My Certificate](https://github.com/Zeyad2003/Fawry-Internship/assets/87117386/83c51619-6025-4623-99b5-f98553322ab2)</details>
 
-### Please Notice ⬇
-
-<a href="https://github.com/Zeyad2003/Fawry-Internship"><img src="https://img.shields.io/badge/Repo%20Status-Finished%20:)-White?labelColor=Dark Gray&style=social&logo=github&link=https://github.com/Zeyad2003/Fawry-Internship" alt="Repo Status" /></a>
